@@ -1,0 +1,6 @@
+Coading automation is web based application. It is mixture of web scrapping and puppeteer . Mainly in this project we have to work on node JS technology. Puppeteer is a Node library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It can also be configured to use full (nonheadless) Chrome or Chromium. In this project we have to  develop following things- 
+? Login with your given email and password.  
+? Goes to the course page and click on our course  
+? Select the question for you.  
+? Types the code into the code editor  
+? submit your code
